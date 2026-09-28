@@ -4,17 +4,12 @@
 
 ### 📱 Beginner Flutter Developer | 💙 Dart | 🚀 Mobile App Development
 
-I'm **Mostafa Adel Abosamra**, a beginner **Flutter Developer** passionate about building mobile applications and learning modern software development.
+I'm beginner **Flutter Developer** passionate about building mobile applications and learning modern software development.
 
 I’m currently improving my skills in **Flutter & Dart** and working on practical projects to become a strong software developer.
 
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=blue\&label=PROFILE+VIEWS)
+My Cv:
+[Mostafa Abosamra.pdf](https://drive.google.com/file/d/1iDoNswzRXrhCGaj_E-J4t8Bdzumdj1eP/view?usp=sharing)
 
 </div>
 
@@ -133,39 +128,11 @@ I'm currently working on building and improving different projects using Flutter
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</a>
-
-</div>
-
----
-
 ## 🐍 My Contribution Graph
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 

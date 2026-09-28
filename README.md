@@ -128,6 +128,16 @@ I'm currently working on building and improving different projects using Flutter
 
 ---
 
+📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/bosamra"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</div>
+
+---
+
 ## 🐍 My Contribution Graph
 
 <div align="center">
